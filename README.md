@@ -27,3 +27,6 @@ rename .env.example to .env
 https://my-json-server.typicode.com/coing-dev/photo-api/photos
 https://my-json-server.typicode.com/coing-dev/photo-api/images
 ``` 
+## What we will examine:
+* Clean production ready code
+* Ability to fulfill the requirements
